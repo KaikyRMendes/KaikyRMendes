@@ -1,11 +1,5 @@
 ### Olá sou o Kaiky 👋
 
--  
-- 🔭 Estudando: Java, HTML, CSS, JavaScript e Banco de Dados
-- 😄 Cursando: 2ºano do ensino médio integrado curso(Informática)
-- ⚡ Experiência: Básica 
-- 😄 Pronouns: Ele/dele
-
 <div align="center">
   <a href="https://github.com/KaikyRMendes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaikyRMendes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
